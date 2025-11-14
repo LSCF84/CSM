@@ -1,5 +1,5 @@
 <div align="center">
-   
+   
 # ⚙️ Utilidad de Mejora de Instalaciones Semi-Automáticas (v2.0)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
@@ -23,9 +23,9 @@ La versión 2.0 incorpora mejoras significativas enfocadas en el despliegue y la
 
 * **Nueva Pestaña 'Pckgr / Intune':** Funcionalidad dedicada a la gestión de paquetes, ideal para entornos que utilicen **Pckgr** o planifiquen despliegues a través de **Microsoft Intune**.
 * **Backup Automático:** Las operaciones realizadas en la pestaña 'Pckgr / Intune' incluyen un robusto sistema de backup automático en múltiples formatos:
-    * `Excel`
-    * `JSON`
-    * `ZIP`
+    * `Excel`
+    * `JSON`
+    * `ZIP`
 * **Integración Directa con Pckgr:** Permite la integración y la preparación directa de paquetes para despliegues masivos.
 * **Barra de Progreso Gráfica:** En la sección **'Actualizaciones'**, se ha añadido una barra de progreso visual para ofrecer una retroalimentación clara e inmediata sobre el estado de la tarea.
 
@@ -60,6 +60,21 @@ Este *software* está desarrollado para **uso libre**. Sin embargo, la responsab
 - Python 3.8 o superior
 - Windows 10/11
 - Permisos de administrador (recomendado)
+
+---
+
+## Instalación
+
+1.  **Clona el repositorio**
+    ```bash
+    git clone [https://github.com/LSCF84/CSM.git](https://github.com/LSCF84/CSM.git)
+    cd CSM
+    ```
+2.  **Instala dependencias**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
 ---
 
 ## 👨‍💻 Autor
