@@ -54,6 +54,12 @@ Este *software* está desarrollado para **uso libre**. Sin embargo, la responsab
 * Se agregó una barra de progreso visual en la pestaña 'Actualizaciones'.
 * Integración y soporte directo con la herramienta Pckgr para despliegues en Intune.
 
+## 🚀 Instalación Rápida
+
+### Prerrequisitos
+- Python 3.8 o superior
+- Windows 10/11
+- Permisos de administrador (recomendado)
 ---
 
 ## 👨‍💻 Autor
