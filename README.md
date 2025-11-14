@@ -7,6 +7,7 @@
 [![OpenAI](https://img.shields.io/badge/OpenAI-GPT--3.5%2B-orange)](https://openai.com/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+</div>
 
 ## 🌟 Resumen del Proyecto
 
