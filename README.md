@@ -85,7 +85,7 @@ Este *software* está desarrollado para **uso libre**. Sin embargo, la responsab
     ```
     ### 2. Ejecución
 
-Dado que solo utiliza librerías ya estan isntaladas.
+Dado que solo utiliza librerías ya estan instaladas.
 
 1.  Descarga o clona el archivo `csm.py` en tu máquina.
 2.  Ejecuta el *script* desde tu terminal:
