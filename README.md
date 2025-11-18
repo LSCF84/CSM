@@ -87,11 +87,11 @@ Este *software* está desarrollado para **uso libre**. Sin embargo, la responsab
 
 Dado que solo utiliza librerías ya estan instaladas.
 
-1.  Descarga o clona el archivo `csm.py` en tu máquina.
+1.  Descarga o clona el archivo `CSM 2.0.py` en tu máquina.
 2.  Ejecuta el *script* desde tu terminal:
 
     ```bash
-    python csm.py
+    python CSM 2.0.py
     ```
 
 ---
