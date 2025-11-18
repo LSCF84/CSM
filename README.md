@@ -76,7 +76,7 @@ Este *software* está desarrollado para **uso libre**. Sin embargo, la responsab
 
 1.  **Clona el repositorio**
     ```bash
-    git clone [https://github.com/LSCF84/CSM.git](https://github.com/LSCF84/CSM.git)
+    git clone https://github.com/LSCF84/CSM.git
     cd CSM
     ```
 2.  **Instala dependencias**
