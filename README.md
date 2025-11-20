@@ -1,7 +1,7 @@
 
 <div align="center">
    
-# ⚙️ Utilidad de Mejorar de Instalaciones Semi-automaticas 
+# ⚙️ Utilidad de Mejorar de Instalaciones Semiautomáticas   
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows%2010%2B-success)](https://www.microsoft.com/windows)
@@ -12,7 +12,7 @@
 
 ## 🌟 Resumen del Proyecto
 
-Esta utilidad ha sido desarrollada para **mejorar y optimizar los procesos de instalaciones semi-automáticas** en entornos empresariales o técnicos. La versión 2.0 introduce nuevas herramientas clave para la gestión de paquetes y la integración con plataformas modernas de despliegue como **Intune**.
+Esta utilidad ha sido desarrollada para **mejorar y optimizar los procesos de instalaciones semiautomáticas** en entornos empresariales o técnicos. La versión 2.0 introduce nuevas herramientas clave para la gestión de paquetes y la integración con plataformas modernas de despliegue como **Intune**.
 
 El objetivo es simplificar tareas repetitivas y ofrecer un control más robusto y auditable sobre los cambios del sistema y los despliegues de software.
 
@@ -45,7 +45,7 @@ La versión 2.0 incorpora mejoras significativas enfocadas en el despliegue y la
 | Detalle | Descripción |
 | :--- | :--- |
 | **Creador** | LSCF |
-| **Propósito** | Mejorar y optimizar las instalaciones semi-automáticas. |
+| **Propósito** | Mejorar y optimizar las instalaciones semiautomáticas. |
 | **Origen** | Idea original de LSCF, con soporte en el desarrollo por Inteligencia Artificial (IA). |
 
 ### ⚠️ Aviso de Uso y Responsabilidad
