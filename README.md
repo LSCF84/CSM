@@ -76,7 +76,7 @@ Este *software* está desarrollado para **uso libre**. Sin embargo, la responsab
 
 1.  **Clona el repositorio**
     ```bash
-    git clone https://github.com/LSCF84/Check-Software-Minimum---CSM
+    git clone https://github.com/LSCF84/Check-Software-Minimum-CSM
     cd CSM
     ```
 2.  **Instala dependencias**
